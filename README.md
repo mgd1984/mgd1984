@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello 👋 👋
 
 ## About Me
 Passion for building products and businesses, with a background in Entrepreneurship and Data Science. Ivey HBA and University of Toronto SCS grad and currently run Overview Analytics.

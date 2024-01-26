@@ -19,7 +19,7 @@ Passion for building products and businesses, with a background in Entrepreneurs
 ## Reach Me
 - [LinkedIn ](https://linkedin.com/in/alecjmiller)
 - [Twitter ](https://x.com/gener8ive)
-- [Website ](https://mgd1984.github.io/personal-site)
+- [Website ](https://www.mgd1984.ca)
 
 Feel free to explore my projects and reach out for collaborations or discussions!
 

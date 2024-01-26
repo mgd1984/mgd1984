@@ -4,7 +4,7 @@
 Passion for building products and businesses, with a background in Entrepreneurship and Data Science. Ivey HBA and University of Toronto SCS grad and currently run Millhaus Technology Services.
 
 ## Professional Journey
-- Owner/Operator at Overview Analytics
+- Owner/Operator at Millhaus Technology Services
 - Experience in technology, telecom, and startup incubation
 - Worked with Rogers, MaRS, TechAlliance, and Lenovo
 

@@ -11,10 +11,8 @@ Passion for building products and businesses, with a background in Entrepreneurs
 ## Skills
 - Entrepreneurship
 - Data Science
-- [Other technical skills]
 
 ## My Work
-- [Details about any highlighted projects or contributions]
 
 ## Reach Me
 - [LinkedIn ](https://linkedin.com/in/alecjmiller)

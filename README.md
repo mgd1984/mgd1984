@@ -1,26 +1,25 @@
-# Hello 👋 👋 👋 👋
-
-## About Me
+## About
 Passion for building products and businesses, with a background in Entrepreneurship and Data Science. Ivey HBA and University of Toronto SCS grad and currently run Millhaus Technology Services.
 
-## Professional Journey
+## Work
 - Owner/Operator at Millhaus Technology Services
-- Experience in technology, telecom, and startup incubation
-- Worked with Rogers, MaRS, TechAlliance, and Lenovo
+- ~15 years in tech & startup advisory services; ~10 years in data/analytics
+- Roles at Rogers, MaRS Discovery District, TechAlliance, and Lenovo
 
-## Skills
-- Entrepreneurship
-- Data Science
+## Domains
+- Startups & Entrepreneurship
+- Research & Development
+- AI & Analytics
+- Creative Technology
 
-## My Work
-
-## Reach Me
+## Links
 - [LinkedIn ](https://linkedin.com/in/alecjmiller)
 - [Twitter ](https://x.com/gener8ive)
 - [Website ](https://www.mgd1984.ca)
+- [Gener8ions](https://next-gener8ions.vercel.app)
 
-Feel free to explore my projects and reach out for collaborations or discussions!
+Feel free to explore my projects or reach out for collabs.
 
 ---
 
-Proud to be part of the tech and startup community!
+
